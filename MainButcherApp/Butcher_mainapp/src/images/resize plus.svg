@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="502" viewBox="0 0 500 502">
+  <defs>
+    <clipPath id="clip-resize_plus_">
+      <rect width="500" height="502"/>
+    </clipPath>
+  </defs>
+  <g id="resize_plus_" data-name="resize plus " clip-path="url(#clip-resize_plus_)">
+    <g id="Group_128" data-name="Group 128">
+      <g id="Ellipse_18" data-name="Ellipse 18" transform="translate(42 43)" fill="none" stroke="#0f8044" stroke-width="8">
+        <circle cx="208" cy="208" r="208" stroke="none"/>
+        <circle cx="208" cy="208" r="204" fill="none"/>
+      </g>
+      <g id="Group_127" data-name="Group 127" transform="translate(-0.5 0.5)">
+        <line id="Line_14" data-name="Line 14" y2="380" transform="translate(250.5 60.5)" fill="none" stroke="#726d79" stroke-linecap="round" stroke-width="10"/>
+        <line id="Line_15" data-name="Line 15" y2="380" transform="translate(440.5 251) rotate(90)" fill="none" stroke="#726d79" stroke-linecap="round" stroke-width="10"/>
+      </g>
+    </g>
+  </g>
+</svg>
