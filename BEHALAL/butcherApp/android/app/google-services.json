@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1005081830288",
+    "project_id": "butcherapp-436f5",
+    "storage_bucket": "butcherapp-436f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005081830288:android:01a4a9150345703c508915",
+        "android_client_info": {
+          "package_name": "com.butcherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005081830288-prbkhisvllpl3c7hjh0gpaisbc4fj7io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPgjXK_Q8dp-hLtSBf0H1bcUoOzRKHfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005081830288-prbkhisvllpl3c7hjh0gpaisbc4fj7io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
